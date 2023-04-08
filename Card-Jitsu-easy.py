@@ -2,7 +2,7 @@ import webbrowser
 
 webbrowser.open("https://youtu.be/rCyou4Cz3J0")
 
-print("Bienvenue dans le Dojo !")
+print("Welcome to the Dojo !")
 print("You will be facing off against the computer in a series of duels.")
 print("The first player to win 3 duels will be crowned the champion of the dojo!")
 
